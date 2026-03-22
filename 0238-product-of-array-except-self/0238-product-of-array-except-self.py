@@ -9,3 +9,4 @@ class Solution:
             i+=1;j-=1
 
         return [ sufpro[i]*prepro[i] for i in range(len(nums)) ]
+        #space complexity can be improved using ans list as prepro
