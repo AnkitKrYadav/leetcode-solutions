@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
