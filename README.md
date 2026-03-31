@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [3110-score-of-a-string](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
