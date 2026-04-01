@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2413-smallest-even-multiple](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Geometry
 |  |
 | ------- |
