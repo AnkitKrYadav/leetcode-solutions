@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [3794-reverse-string-prefix](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3110-score-of-a-string](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
