@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2413-smallest-even-multiple](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
