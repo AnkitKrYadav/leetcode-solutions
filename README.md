@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Design
 |  |
 | ------- |
@@ -104,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0853-car-fleet) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
