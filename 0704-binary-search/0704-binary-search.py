@@ -1,6 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        low,high = 0,(len(nums) -1)
+        low,high = 0,len(nums) - 1
         
         while low <= high:
             mid = (low+high)//2 
@@ -11,3 +11,4 @@ class Solution:
             elif nums[mid] < target:
                 low = mid+1
         return -1 
+#O(logn),O(1)
