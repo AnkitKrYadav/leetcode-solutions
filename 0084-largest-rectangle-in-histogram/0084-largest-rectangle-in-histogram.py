@@ -18,3 +18,4 @@ class Solution:
         stack.append(i)
 
     return maxA
+#O(n)
