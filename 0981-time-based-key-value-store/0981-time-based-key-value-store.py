@@ -27,3 +27,4 @@ class TimeMap:
                 right = mid - 1
                 
         return res
+#O(logn)
