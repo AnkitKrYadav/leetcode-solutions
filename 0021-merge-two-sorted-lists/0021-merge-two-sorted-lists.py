@@ -28,4 +28,4 @@ class Solution:
             tail.next = list2.next
             return head
         return None
-#O(n+m)
+#O(n+m) space can be improved by using given list, for ans
