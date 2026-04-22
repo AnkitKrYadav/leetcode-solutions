@@ -129,5 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-car-fleet](https://github.com/AnkitKrYadav/leetcode-solutions/tree/master/0853-car-fleet) |
 
-Thanks.
+**Thanks.**
 <!---LeetCode Topics End-->
