@@ -14,13 +14,15 @@ class Solution:
         chead = Node(head.val)
         l1 = head.next
         l2  = chead
+        l2i = {0:chead}
         pos,p = {head:0},1
-        #copy list node with nexts only
+        #copy list node with next pointer only
         while l1:
             pos[l1] = p
             l2.next = Node(l1.val)
             l1 = l1.next
             l2 = l2.next
+            l2i[p] = l2
             p += 1
         l1 = head
         l2 = chead
@@ -29,10 +31,7 @@ class Solution:
         while l1:
             if l1.random != None:
                 k = pos[l1.random]
-                l2k = chead
-                for z in range(k):
-                    l2k = l2k.next
-                l2.random = l2k
+                l2.random = l2i[k]
             l1 = l1.next
             l2 = l2.next
         return chead
